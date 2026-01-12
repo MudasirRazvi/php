@@ -4,7 +4,7 @@
 | OOP PRACTICE FILE – PROFESSIONAL CALCULATOR SYSTEM
 |--------------------------------------------------------------------------
 | This single file demonstrates:
-| - Classes & Objects
+|  Classes & Objects
 | - Constructors
 | - Access Modifiers
 | - Inheritance
